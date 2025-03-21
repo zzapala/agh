@@ -1,0 +1,4 @@
+#wstawianie
+
+#usuwanie mediany
+
