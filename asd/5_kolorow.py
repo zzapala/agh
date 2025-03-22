@@ -1,1 +1,0 @@
-#n-elementowa tablica A, w której elementy są ze zbioru {0, 1, 2, ..., k-1} (kolory). znaleźć jak najkrótszy przedział i do j, taki że w tym przedziale są wszystkie kolory.
